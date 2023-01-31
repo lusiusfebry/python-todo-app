@@ -5,3 +5,4 @@ dede
 satu
 dua
 tiga
+belajar python
